@@ -29,7 +29,7 @@ Desarrollador **Full Stack** con más de 3 años de experiencia construyendo **a
 | 🌍 **Ubicación** | Bogotá, Colombia |
 | 💼 **Experiencia** | Novabase · Peopletech · Freelance |
 | 🎓 **Estudios** | Ingeniería de Software en UNIMINUTO |
-| 🖥️ **Portafolio** | [TU-PORTAFOLIO](https://alejandroardila.netlify.app) |
+| 🖥️ **Portafolio** | [Portafolio](https://alejandroardila.netlify.app) |
 | ✉️ **Correo** | [alejandro.ardila.dev@gmail.com](mailto:alejandro.ardila.dev@gmail.com) |
 
 <table>
