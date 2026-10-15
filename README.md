@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://TU-PORTAFOLIO"><img src="https://img.shields.io/badge/PORTAFOLIO-ver%20sitio-0F9F8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
+<a href="https://alejandroardila.netlify.app"><img src="https://img.shields.io/badge/PORTAFOLIO-ver%20sitio-0F9F8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
 <a href="https://www.linkedin.com/in/alejandro-ardila-llano-939639322/"><img src="https://img.shields.io/badge/LINKEDIN-conectemos-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
 <a href="mailto:alejandro.ardila.dev@gmail.com"><img src="https://img.shields.io/badge/CORREO-escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 
@@ -29,7 +29,7 @@ Desarrollador **Full Stack** con más de 3 años de experiencia construyendo **a
 | 🌍 **Ubicación** | Bogotá, Colombia |
 | 💼 **Experiencia** | Novabase · Peopletech · Freelance |
 | 🎓 **Estudios** | Ingeniería de Software en UNIMINUTO |
-| 🖥️ **Portafolio** | [TU-PORTAFOLIO](https://TU-PORTAFOLIO) |
+| 🖥️ **Portafolio** | [TU-PORTAFOLIO](https://alejandroardila.netlify.app) |
 | ✉️ **Correo** | [alejandro.ardila.dev@gmail.com](mailto:alejandro.ardila.dev@gmail.com) |
 
 <table>
